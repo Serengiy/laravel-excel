@@ -1,4 +1,4 @@
-## Password storage
+## Product storage
 
 ### Installation:
 
